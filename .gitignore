@@ -1,0 +1,6 @@
+data/
+.venv/
+.playwright-mcp/
+__pycache__/
+features_RN50.pt
+features_ViT-B-16.pt
